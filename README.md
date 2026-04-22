@@ -4,6 +4,8 @@
 
 Beacon is an intelligent desktop assistant that provides real-time, step-by-step guidance for any task on your screen. Simply describe what you want to do, and Beacon will analyze your screen, create a plan, and guide you through each step with visual overlays.
 
+[Devpost Link](https://devpost.com/software/beacon-hyv46n)
+
 ## Features
 
 ### 🤖 AI-Powered Task Planning
